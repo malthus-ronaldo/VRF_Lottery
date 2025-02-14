@@ -1,3 +1,6 @@
 [submodule "small_vrf_lottery/lib/forge-std"]
 	path = small_vrf_lottery/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "small_vrf_lottery/lib/openzeppelin-contracts"]
+	path = small_vrf_lottery/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
