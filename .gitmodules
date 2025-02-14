@@ -1,0 +1,3 @@
+[submodule "small_vrf_lottery/lib/forge-std"]
+	path = small_vrf_lottery/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
